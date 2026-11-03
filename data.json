@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "headline": "New Quantum Processor Reaches Milestone",
+    "content": "Researchers have announced a new quantum processor that can perform calculations in seconds that would take traditional supercomputers thousands of years. This brings us one step closer to practical quantum computing."
+  },
+  {
+    "id": 2,
+    "headline": "AI Regulation Bill Passes Senate",
+    "content": "A new bill aimed at regulating the development of artificial intelligence has passed the Senate. The bill focuses on transparency and safety standards for large-scale models, aiming to mitigate potential risks associated with automated decision-making."
+  },
+  {
+    "id": 3,
+    "headline": "Major Cloud Provider Announces Cost Reductions",
+    "content": "In a bid to capture more market share, a major cloud services provider has announced significant price reductions for their storage and compute services, sparking a price war among major tech firms."
+  },
+  {
+    "id": 4,
+    "headline": "Open Source Initiative Releases New Governance Model",
+    "content": "The Open Source Initiative has unveiled a revised governance model designed to improve sustainability and decision-making processes for large-scale open-source projects, aiming to better support volunteer maintainers."
+  },
+  {
+    "id": 5,
+    "headline": "Battery Technology Breakthrough Promises Longer EV Range",
+    "content": "A significant breakthrough in solid-state battery technology promises to increase the range of electric vehicles while simultaneously reducing charging times, which could accelerate the global transition to sustainable transport."
+  }
+]
