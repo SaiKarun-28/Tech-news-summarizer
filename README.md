@@ -16,7 +16,7 @@ This project addresses the challenge of information overload by leveraging moder
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/tech-news-summarizer.git
+   git clone[ https://github.com/SaiKarun-28/Tech-news-summarizer.git ]
    cd tech-news-summarizer
    ```
 2. Install the required dependencies:
@@ -32,5 +32,3 @@ This project addresses the challenge of information overload by leveraging moder
    ```
 The output will display the generated summaries in the console, followed by the computed ROUGE metrics.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
